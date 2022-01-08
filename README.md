@@ -1,8 +1,10 @@
 # The NucleoNets: Deep Polygenic Neural Network for Predicting and Identifying Yield-asscociated Genes in Indonesian Rice Accessions
-- Contributors: **Nicholas Dominic, Tjeng Wawan Cenggoro, Arif Budiarto, Bens Pardamean**
+- Contributors: **Nicholas Dominic*, Tjeng Wawan Cenggoro, Arif Budiarto, Bens Pardamean**
 - Main Affiliation: [Bioinformatics & Data Science Research Center](https://research.binus.ac.id/bdsrc/) (BDSRC), Bina Nusantara University
 - Programming Language: **Python 3.7.1**
 - International Publication: (coming soon)
+
+* corresponding author: nicholas.dominic@binus.ac.id
 
 ## Frequently Ask Questions (FAQ)
 - ***Can I copy all or some of your works?***
